@@ -1,0 +1,2 @@
+"use strict";function handleSubmit(e){return(e.preventDefault(),document.querySelector(".follow__input").value.trim())?(e.target.reset(),window.scrollTo(0,0)):alert("Please, write email!"),!1}document.addEventListener("DOMContentLoaded",function(){new Swiper(".swiper",{slidesPerView:"auto",spaceBetween:20,freeMode:!0,pagination:{el:".swiper-pagination",clickable:!0},breakpoints:{600:{slidesPerView:2},850:{slidesPerView:3}}})});
+//# sourceMappingURL=NAMU-Museum-Portfolio.ade5626a.js.map
