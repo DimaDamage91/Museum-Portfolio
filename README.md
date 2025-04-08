@@ -1,5 +1,5 @@
-# Base layout template with Gulp, SCSS and Stylelint
+# NAMU Museum - Art Museum Website
 
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-   - [DEMO LINK](https://DimaDamage91.github.io/Museum-Portfolio/)
+This is an informational website of the NAMU museum, it providing all the information about current and upcoming events. It also allows users to purchase tickets and follow the museum on solial media.
+
+Live website: [NAMU Museum Demo](https://DimaDamage91.github.io/Museum-Portfolio/)
